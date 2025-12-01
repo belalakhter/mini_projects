@@ -10,4 +10,4 @@
 Automate cluster setup for production grade kafka with system tune, TLS and kubernetes
 
 ### Worker Pool
-Concurrency using worker threads
+Concurrency using pool of worker threads
